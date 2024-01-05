@@ -1,13 +1,19 @@
 -일정관리앱(react.js)-일정관리앱(react.js)
 ​
 >create-react-app todo-app
+>
 >cd todo-app
+>
 todo-app>yarn add classnames react-icons
+
 todo-app>yarn start
 
 >create-react-app todo-app
+>
 >cd todo-app
+>
 todo-app>yarn add classnames react-icons
+
 todo-app>yarn start
 >
 - package.json 파일에
