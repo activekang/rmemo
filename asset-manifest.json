@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rmemo/static/css/main.7566a8af.css",
+    "main.js": "/rmemo/static/js/main.b1afafd9.js",
+    "static/media/memo.png": "/rmemo/static/media/memo.585631c4b9303fa7aa7a.png",
+    "index.html": "/rmemo/index.html",
+    "main.7566a8af.css.map": "/rmemo/static/css/main.7566a8af.css.map",
+    "main.b1afafd9.js.map": "/rmemo/static/js/main.b1afafd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7566a8af.css",
+    "static/js/main.b1afafd9.js"
+  ]
+}
